@@ -59,6 +59,6 @@ public class Titulo {
 
     public int getTotalDeAvaliacoes() {
         return this.totalDeAvaliacoes;
-
     }
+
 }
